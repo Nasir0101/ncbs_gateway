@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ncbs_gateway
+
+
+ncbs:
+  census:
+    url: http://127.0.0.1:8000/
